@@ -1,0 +1,61 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.obj\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.obj\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.stl\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.stl\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.igs\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.igs\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.iges\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.iges\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.fbx\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.fbx\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.gltf\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.gltf\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.glb\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.glb\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.dae\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.dae\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.3ds\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.3ds\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.stp\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.stp\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.step\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.step\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.x3d\shell\acer-fvmv]
+@="Open in Acer Model Viewer"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.x3d\shell\acer-fvmv\command]
+@="cmd /c acer-fvmv.exe -model \"%1\""
