@@ -2,7 +2,7 @@
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
     Version="1.0.0.0"
-    Uri="http://https://acer-fvmv.imfast.io/acer-fvmv.appinstaller" >
+    Uri="https://raw.githubusercontent.com/mfoda-acer/acer-fvmv/master/acer-fvmv.appinstaller" >
     <MainPackage
         Name="Acer.ModelViewer"
         Publisher="CN=Acer"
