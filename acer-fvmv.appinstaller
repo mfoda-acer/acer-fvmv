@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+    Version="1.0.0.0"
+    Uri="http://https://acer-fvmv.imfast.io/acer-fvmv.appinstaller" >
+    <MainPackage
+        Name="Acer.ModelViewer"
+        Publisher="CN=Acer"
+        Version="1.0.0.0"
+        ProcessorArchitecture="x64" 
+        Uri="https://acer-fvmv.imfast.io/acer-fvmv.msix" />
+    <UpdateSettings>
+        <OnLaunch HoursBetweenUpdateChecks="0" 
+				  ShowPrompt="true"
+				  UpdateBlocksActivation="true" />  
+        <AutomaticBackgroundTask/>
+    </UpdateSettings>
+</AppInstaller>
